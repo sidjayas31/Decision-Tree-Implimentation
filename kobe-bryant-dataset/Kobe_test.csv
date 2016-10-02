@@ -1,0 +1,101 @@
+action_type,combined_shot_type,minutes_remaining,period,shot_type,shot_zone_area,shot_zone_basic,shot_zone_range,matchup,shot_made_flag
+Driving Layup Shot,Layup,5,3,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,1
+Dunk Shot,Dunk,8,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,1
+Jump Shot,Jump Shot,10,2,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,Away,1
+Jump Shot,Jump Shot,0,2,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,Away,1
+Reverse Layup Shot,Layup,0,4,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,1
+Layup Shot,Layup,10,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,1
+Jump Shot,Jump Shot,6,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,Away,1
+Jump Shot,Jump Shot,4,2,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,Away,1
+Layup Shot,Layup,0,2,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,1
+Jump Shot,Jump Shot,11,3,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,Away,1
+Jump Shot,Jump Shot,7,3,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,Away,1
+Jump Shot,Jump Shot,5,3,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,Away,1
+Layup Shot,Layup,7,4,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,1
+Slam Dunk Shot,Dunk,3,4,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,1
+Jump Shot,Jump Shot,6,2,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,Away,1
+Jump Shot,Jump Shot,2,2,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,Away,1
+Jump Shot,Jump Shot,10,3,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,Away,1
+Jump Shot,Jump Shot,11,4,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,Away,1
+Jump Shot,Jump Shot,2,4,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,Away,1
+Jump Shot,Jump Shot,11,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,Away,1
+Jump Shot,Jump Shot,8,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,Away,1
+Layup Shot,Layup,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,1
+Jump Shot,Jump Shot,2,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,Away,1
+Jump Shot,Jump Shot,4,2,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,Away,1
+Jump Shot,Jump Shot,2,2,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,Away,1
+Jump Shot,Jump Shot,1,2,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,Away,1
+Jump Shot,Jump Shot,10,3,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,Away,1
+Jump Shot,Jump Shot,6,3,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,Away,1
+Jump Shot,Jump Shot,5,3,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,Away,1
+Jump Shot,Jump Shot,3,3,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,Away,1
+Layup Shot,Layup,2,3,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,1
+Jump Shot,Jump Shot,6,4,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,Away,1
+Jump Shot,Jump Shot,5,4,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,Away,1
+Jump Shot,Jump Shot,1,4,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,Away,1
+Jump Shot,Jump Shot,0,1,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,Away,1
+Slam Dunk Shot,Dunk,8,2,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,1
+Jump Shot,Jump Shot,5,2,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,Away,1
+Jump Shot,Jump Shot,2,2,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,Away,1
+Jump Shot,Jump Shot,4,4,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,Away,1
+Jump Shot,Jump Shot,10,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,Home,1
+Running Hook Shot,Hook Shot,7,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Home,1
+Reverse Dunk Shot,Dunk,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Home,1
+Driving Layup Shot,Layup,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Home,1
+Driving Layup Shot,Layup,3,2,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Home,1
+Driving Layup Shot,Layup,7,3,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Home,1
+Driving Finger Roll Shot,Layup,2,3,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Home,1
+Driving Layup Shot,Layup,2,3,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Home,1
+Slam Dunk Shot,Dunk,0,2,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,1
+Driving Layup Shot,Layup,11,3,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,1
+Driving Layup Shot,Layup,4,3,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,1
+Jump Shot,Jump Shot,0,4,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,Home,0
+Jump Shot,Jump Shot,7,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,Home,0
+Jump Shot,Jump Shot,6,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,Home,0
+Jump Shot,Jump Shot,3,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,Home,0
+Jump Shot,Jump Shot,7,2,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,Home,0
+Layup Shot,Layup,6,2,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Home,0
+Jump Shot,Jump Shot,6,2,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,Home,0
+Layup Shot,Layup,4,2,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Home,0
+Jump Shot,Jump Shot,0,2,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,Home,0
+Jump Shot,Jump Shot,0,2,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,Home,0
+Running Jump Shot,Jump Shot,10,3,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,Home,0
+Jump Shot,Jump Shot,7,3,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,Home,0
+Jump Shot,Jump Shot,6,3,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,Home,0
+Jump Shot,Jump Shot,4,3,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,Home,0
+Jump Shot,Jump Shot,2,3,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,Home,0
+Jump Shot,Jump Shot,0,3,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,Home,0
+Jump Shot,Jump Shot,5,4,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,Home,0
+Jump Shot,Jump Shot,5,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,Home,0
+Jump Shot,Jump Shot,1,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,Home,0
+Jump Shot,Jump Shot,5,2,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,Home,0
+Jump Shot,Jump Shot,0,2,3PT Field Goal,Back Court(BC),Backcourt,Back Court Shot,Home,0
+Jump Shot,Jump Shot,8,3,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,Home,0
+Jump Shot,Jump Shot,11,4,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,Home,0
+Layup Shot,Layup,9,4,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Home,0
+Jump Shot,Jump Shot,6,4,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,Home,0
+Jump Shot,Jump Shot,4,4,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,Home,0
+Layup Shot,Layup,2,4,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Home,0
+Jump Shot,Jump Shot,0,4,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,Home,0
+Jump Shot,Jump Shot,0,4,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,Home,0
+Driving Layup Shot,Layup,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,0
+Jump Shot,Jump Shot,8,3,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,Away,0
+Driving Layup Shot,Layup,6,3,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,0
+Jump Shot,Jump Shot,0,3,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,Away,0
+Jump Shot,Jump Shot,0,4,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,Away,0
+Jump Shot,Jump Shot,3,5,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,Away,0
+Driving Layup Shot,Layup,3,5,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,0
+Turnaround Jump Shot,Jump Shot,2,5,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,Away,0
+Driving Layup Shot,Layup,1,5,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,0
+Jump Shot,Jump Shot,9,2,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,Away,0
+Jump Shot,Jump Shot,3,2,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,Away,0
+Jump Shot,Jump Shot,9,3,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,Away,0
+Jump Shot,Jump Shot,5,3,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,Away,0
+Jump Shot,Jump Shot,0,3,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,Away,0
+Jump Shot,Jump Shot,4,4,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,Away,0
+Jump Shot,Jump Shot,2,1,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,Away,0
+Jump Shot,Jump Shot,9,2,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,Away,0
+Tip Shot,Tip Shot,8,3,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,Away,0
+Jump Shot,Jump Shot,5,3,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,Away,0
+Jump Shot,Jump Shot,5,3,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,Away,0
+Jump Shot,Jump Shot,6,4,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,Away,0
